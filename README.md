@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on https://github.com/process-analytics/bpmn-visualization-js
+<p align="center"> <img title="BPMN Visualization" src="https://github.com/process-analytics/bpmn-visualization-js/blob/master/docs/images/diagram-hacktoberfest-example.png"></p>
+
 
 <!--
 **csouchet/csouchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
