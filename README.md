@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on https://github.com/process-analytics/bpmn-visualization-js
-<p align="center"> <img title="BPMN Visualization" src="https://github.com/process-analytics/bpmn-visualization-js/blob/master/docs/images/diagram-hacktoberfest-example.png"></p>
+<p align="center"> <img title="BPMN Visualization" src="https://github.com/process-analytics/bpmn-visualization-js/blob/master/docs/users/images/diagram-hacktoberfest-example.png"></p>
 
 
 <!--
